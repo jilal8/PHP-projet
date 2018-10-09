@@ -1,2 +1,2 @@
 # PHP-project
-Projet visant a lier entre les etudiants Djiboutien(ne)s et les entreprises du pays.
+Projet visant à lier entre les étudiant(e)s Djiboutien(ne)s et les entreprises du pays.
