@@ -1,0 +1,72 @@
+#contenu #connexion{
+	margin:00px;
+	margin-top: 90px;
+	margin-left: 450px;
+	height: 300px;
+	width: 450px;
+	background-color: #fffaaa;
+	border: solid;
+	border-radius: 9px;
+
+
+}
+#retourn{
+	text-align: center;
+	margin:00;
+	width: 450px;
+	height: 25px;
+}
+#tete{
+	background-color: #2E64FE;
+	margin-top: 15px;
+	border-radius: 9px;
+
+}
+#tete h1{
+	color: white;
+}
+#contenu{
+	width: 950px;
+	height: auto;
+	background-color: white;
+	margin-left: 250px;
+	margin-top: 25px;
+	padding-top: 15px;
+	border-radius: 9px
+} 
+#image{
+	margin:00px;
+	float: left;
+	margin-left: 25px;
+	margin-top: 75px;
+}
+
+
+body{
+	background-color: #2E9AFE;
+}
+
+#contenu #inscription{
+	margin:00px;
+	margin-top: 40px;
+	margin-left: 450px;
+	height: 460px;
+	width: 450px;
+	background-color: #fffaae;
+	border: solid;
+	border-radius: 9px;
+}
+#connexion #pass{
+	color: #000;
+}
+#connexion #nom{
+	color: #000;
+}
+#connexion .tittle{
+	text-align: center;
+}
+#inscription .tittle{
+	text-align: center;
+}
+#inscrip{
+}

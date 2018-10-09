@@ -1,0 +1,39 @@
+#connexion{
+	margin:00px;
+	margin-top: 90px;
+	margin-left: 750px;
+	height: 260px;
+	width: 450px;
+	background-color: #fff;
+	border: solid;
+	border-radius: 9px;
+
+}
+
+
+body{
+	background-color: #fff;
+}
+
+#inscription{
+	margin:00px;
+	margin-top: 40px;
+	margin-left: 750px;
+	height: 460px;
+	width: 450px;
+	background-color: #fff;
+	border: solid;
+	border-radius: 9px;
+}
+#connexion #pass{
+	color: #000;
+}
+#connexion #nom{
+	color: #000;
+}
+#connexion .tittle{
+	text-align: center;
+}
+#inscription .tittle{
+	text-align: center;
+}
